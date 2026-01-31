@@ -1,0 +1,9 @@
+{
+  "model": "CRNN",
+  "learning_rate": 0.1,
+  "batch_size": 32,
+  "epochs": 100,
+  "dropout": 0.5,
+  "optimizer": "Adam",
+  "random_seed": 42
+}
