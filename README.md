@@ -51,22 +51,24 @@ No primary data were collected by the authors. All datasets are anonymized and p
 All models are trained and evaluated under identical experimental settings for fair comparison.
 
 ---
+```
 RCNN/
-│
-├── data/ # Raw and processed datasets
-├── configs/ # JSON configuration files for all models
-├── notebooks/ # Jupyter notebooks (step-by-step experiments)
-├── models/ # Model definitions
-├── training/ # Training and evaluation scripts
-├── utils/ # Data loading, preprocessing, metrics
-├── results/ # Tables, figures, logs
-├── splits/ # Train/validation/test splits (1–5 folds)
-├── reproducibility/ # Seeds, hardware specs, experiment protocol
+├── data/                   # Raw and processed datasets
+├── configs/                # JSON configuration files for all models
+├── notebooks/              # Jupyter notebooks (step-by-step experiments)
+├── models/                 # Model definitions
+├── training/               # Training and evaluation scripts
+├── utils/                  # Data loading, preprocessing, metrics
+├── results/                # Tables, figures, logs
+├── splits/                 # Train/validation/test splits (1–5 folds)
+├── reproducibility/        # Seeds, hardware specs, experiment protocol
 │
 ├── README.md
 ├── requirements.txt
 ├── environment.yml
 └── LICENSE
+```
+
 
 ---
 
