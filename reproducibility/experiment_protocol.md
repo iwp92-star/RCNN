@@ -1,0 +1,1 @@
+Details of experimental setup, seeds, and hardware.
